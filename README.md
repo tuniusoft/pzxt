@@ -5,4 +5,12 @@
 请联系QQ:2286159717
 
 
-![image](https://github.com/tuniusoft/pzxt/blob/main/images/%E7%81%AB%E7%8B%90%E6%88%AA%E5%9B%BE_2020-11-27T08-19-31.212Z.png)
+包含按月配资、按日配资、按周配资等
+
+可以设置手续费
+
+有独立风控
+
+包含代理功能
+
+
